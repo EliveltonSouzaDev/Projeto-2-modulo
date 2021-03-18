@@ -1,3 +1,3 @@
 select count(platforms)
 from mytable
-where platforms like '%mac'
+where platforms like '%mac%'

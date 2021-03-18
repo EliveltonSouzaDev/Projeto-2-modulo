@@ -6,6 +6,7 @@
 
 # Índice
 - [Introdução](#introdução)
+- [Ciência de dados](#ciência-de-dados)
 - [🤔 Como contribuir?](#como-contribuir)
   - [🤔 fiz um fork como pegar as atualizações?](#como-pegar-atualizações-a-partir-de-um-fork)
 
@@ -13,6 +14,9 @@
 
 A ideia é fazer algumas consultas de modo que se extrai informações relevantes para o usuário. Para isso vamos aplicar alguns conceito de consultas SQL e Ciência da dados
 
+# Ciência da dados
+
+Ciência da dados pode ser compreendida como uma transformação de dados brutos em informações ou "insight" para nossos clientes/negócio
 
 # Como contribuir
 

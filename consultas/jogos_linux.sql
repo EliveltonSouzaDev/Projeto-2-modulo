@@ -1,3 +1,3 @@
 SELECT count(platforms)
 FROM mytable
-WHERE platforms LIKE '%linux'
+WHERE platforms LIKE '%linux%'

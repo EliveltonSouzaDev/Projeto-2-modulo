@@ -1,3 +1,6 @@
-<video width="320" height="240" autoplay loop>
-  <source src="./asserts/intro.mp4" type="video/mp4">
-</video>
+# Steam e Banco de dados
+
+<p align="center">
+<img  style="border-radius: 16px; width:80%;" src="./asserts/intro.gif"/>
+</p>
+
